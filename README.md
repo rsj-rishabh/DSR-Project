@@ -1,4 +1,4 @@
-# DSR-Project
+# ICC-Project
 Feature-based Review Analysis for Products
 CodeName: FRAP
 Papers refered : 
